@@ -1,4 +1,7 @@
 
+tools
+
+
 pkg update && pkg upgrade -y
 pkg install python python2
 pip install request -y
